@@ -1,0 +1,12 @@
+{
+  "producto_1": {
+    "nombre": "Remera Negra",
+    "precio": 7.12,
+    "cantidad": 2
+  },
+  "producto_2": {
+    "nombre": "Campera Negra",
+    "precio": 20.14,
+    "cantidad": 1
+  }
+}
